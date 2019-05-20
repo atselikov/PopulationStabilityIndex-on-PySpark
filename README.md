@@ -7,5 +7,7 @@ pyspark 2.1.0
 
 ## Usage
 Set tables & months in psi_settings.py
+
 Specify actual month in run_calc_psi_tables.sh (last parameter)
+
 Run run_calc_psi_tables.sh

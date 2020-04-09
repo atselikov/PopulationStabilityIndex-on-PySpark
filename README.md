@@ -6,8 +6,8 @@ Saves result to xls-file.
 pyspark 2.1.0
 
 ## Usage
-Set tables & months in psi_settings.py
+Set tables & months in `psi_settings.py`
 
-Specify actual month in run_calc_psi_tables.sh (last parameter)
+Set actual month in `run_calc_psi_tables.sh`
 
-Run run_calc_psi_tables.sh
+Run `run_calc_psi_tables.sh`
